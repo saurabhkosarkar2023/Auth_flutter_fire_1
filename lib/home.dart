@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            Image.asset('dash.png'),
+            Image.asset('image/bored_1..png'),
             Text(
               'Welcome!',
               style: Theme.of(context).textTheme.displaySmall,
